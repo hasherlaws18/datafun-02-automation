@@ -1,0 +1,97 @@
+2025-05-18 22:00:57.522 | INFO     | __main__:<module>:38 - Logger loaded.
+2025-05-18 22:00:57.524 | INFO     | __main__:main:202 - #####################################
+2025-05-18 22:00:57.524 | INFO     | __main__:main:203 - # Starting execution of main()
+2025-05-18 22:00:57.524 | INFO     | __main__:main:204 - #####################################
+
+2025-05-18 22:01:29.785 | INFO     | __main__:<module>:38 - Logger loaded.
+2025-05-18 22:01:29.785 | INFO     | __main__:main:202 - #####################################
+2025-05-18 22:01:29.785 | INFO     | __main__:main:203 - # Starting execution of main()
+2025-05-18 22:01:29.785 | INFO     | __main__:main:204 - #####################################
+
+2025-05-18 22:01:29.785 | INFO     | __main__:main:207 - Byline: 
+---------------------------------------------------------
+Houston Analytics: Delivering Professional Insights
+---------------------------------------------------------
+Has International Clients:  True
+Has Local Clients:          False
+Years in Operation:         8
+Skills Offered:             ['Data Analysis', 'Business Analyst', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 5.7, 6.0]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 6.0
+Mean Satisfaction Score: 5.17
+Standard Deviation of Satisfaction Scores: 0.55
+
+2025-05-18 22:01:29.787 | INFO     | __main__:create_folders_for_range:74 - FUNCTION: create_folders_for_range()
+2025-05-18 22:01:29.787 | INFO     | __main__:create_folders_for_range:75 - PARAMETERS: start_year = 2020, end_year = 2023
+2025-05-18 22:01:29.787 | INFO     | __main__:create_folders_for_range:86 - Created folder: C:\projects\datafun-02-automation\2020
+2025-05-18 22:01:29.788 | INFO     | __main__:create_folders_for_range:86 - Created folder: C:\projects\datafun-02-automation\2021
+2025-05-18 22:01:29.788 | INFO     | __main__:create_folders_for_range:86 - Created folder: C:\projects\datafun-02-automation\2022
+2025-05-18 22:01:29.790 | INFO     | __main__:create_folders_for_range:86 - Created folder: C:\projects\datafun-02-automation\2023
+2025-05-18 22:01:29.790 | INFO     | __main__:create_folders_from_list:106 - FUNCTION: create_folders_from_list()
+2025-05-18 22:01:29.790 | INFO     | __main__:create_folders_from_list:107 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-05-18 22:01:29.792 | INFO     | __main__:create_folders_from_list:115 - Created folder: C:\projects\datafun-02-automation\data-csv
+2025-05-18 22:01:29.792 | INFO     | __main__:create_folders_from_list:115 - Created folder: C:\projects\datafun-02-automation\data-excel
+2025-05-18 22:01:29.793 | INFO     | __main__:create_folders_from_list:115 - Created folder: C:\projects\datafun-02-automation\data-json
+2025-05-18 22:01:29.793 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:139 - FUNCTION: create_prefixed_folders()
+2025-05-18 22:01:29.793 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:140 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-05-18 22:01:29.795 | INFO     | __main__:create_folders_periodically:162 - FUNCTION: create_folders_periodically()
+2025-05-18 22:01:29.795 | INFO     | __main__:create_folders_periodically:163 - PARAMETER: duration_seconds = 5
+2025-05-18 22:01:29.795 | INFO     | __main__:create_standardized_folders:190 - FUNCTION: create_standardized_folders()
+2025-05-18 22:01:29.795 | INFO     | __main__:create_standardized_folders:191 - PARAMETERS: folder_list = ['North America', 'South America', 'Europe', 'Asia', 'Africa', 'Oceania', 'Middle East'], to_lowercase = True, remove_spaces = True
+2025-05-18 22:01:29.795 | INFO     | __main__:main:228 - 
+#####################################
+2025-05-18 22:01:29.796 | INFO     | __main__:main:229 - # Completed execution of main()
+2025-05-18 22:01:29.796 | INFO     | __main__:main:230 - #####################################
+2025-05-18 23:11:36.979 | INFO     | __main__:<module>:39 - Logger loaded.
+2025-05-18 23:11:36.979 | INFO     | __main__:main:218 - #####################################
+2025-05-18 23:11:36.979 | INFO     | __main__:main:219 - # Starting execution of main()
+2025-05-18 23:11:36.981 | INFO     | __main__:main:220 - #####################################
+
+2025-05-18 23:11:36.981 | INFO     | __main__:main:223 - Byline: 
+---------------------------------------------------------
+Houston Analytics: Delivering Professional Insights
+---------------------------------------------------------
+Has International Clients:  True
+Has Local Clients:          False
+Years in Operation:         8
+Skills Offered:             ['Data Analysis', 'Business Analyst', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 5.7, 6.0]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 6.0
+Mean Satisfaction Score: 5.17
+Standard Deviation of Satisfaction Scores: 0.55
+
+2025-05-18 23:11:36.981 | INFO     | __main__:create_folders_for_range:75 - FUNCTION: create_folders_for_range()
+2025-05-18 23:11:36.981 | INFO     | __main__:create_folders_for_range:76 - PARAMETERS: start_year = 2020, end_year = 2023
+2025-05-18 23:11:36.981 | INFO     | __main__:create_folders_for_range:88 - Created folder: C:\projects\datafun-02-automation\2020
+2025-05-18 23:11:36.982 | INFO     | __main__:create_folders_for_range:88 - Created folder: C:\projects\datafun-02-automation\2021
+2025-05-18 23:11:36.982 | INFO     | __main__:create_folders_for_range:88 - Created folder: C:\projects\datafun-02-automation\2022
+2025-05-18 23:11:36.982 | INFO     | __main__:create_folders_for_range:88 - Created folder: C:\projects\datafun-02-automation\2023
+2025-05-18 23:11:36.982 | INFO     | __main__:create_folders_from_list:108 - FUNCTION: create_folders_from_list()
+2025-05-18 23:11:36.982 | INFO     | __main__:create_folders_from_list:109 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-05-18 23:11:36.984 | INFO     | __main__:create_folders_from_list:115 - Created folder: C:\projects\datafun-02-automation\data-csv
+2025-05-18 23:11:36.984 | INFO     | __main__:create_folders_from_list:115 - Created folder: C:\projects\datafun-02-automation\data-excel
+2025-05-18 23:11:36.984 | INFO     | __main__:create_folders_from_list:115 - Created folder: C:\projects\datafun-02-automation\data-json
+2025-05-18 23:11:36.984 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:139 - FUNCTION: create_prefixed_folders()
+2025-05-18 23:11:36.984 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:140 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-05-18 23:11:36.985 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:148 - Created folder: C:\projects\datafun-02-automation\output-csv
+2025-05-18 23:11:36.985 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:148 - Created folder: C:\projects\datafun-02-automation\output-excel
+2025-05-18 23:11:36.987 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:148 - Created folder: C:\projects\datafun-02-automation\output-json
+2025-05-18 23:11:36.987 | INFO     | __main__:create_folders_periodically:167 - FUNCTION: create_folders_periodically()
+2025-05-18 23:11:36.987 | INFO     | __main__:create_folders_periodically:168 - PARAMETER: duration_seconds = 5
+2025-05-18 23:11:36.987 | INFO     | __main__:create_folders_periodically:177 - Created folder: C:\projects\datafun-02-automation\periodic_folder_1
+2025-05-18 23:11:36.988 | INFO     | __main__:create_folders_periodically:180 - Waiting 5 seconds before creating the next folder...
+2025-05-18 23:11:41.990 | INFO     | __main__:create_folders_periodically:177 - Created folder: C:\projects\datafun-02-automation\periodic_folder_2
+2025-05-18 23:11:41.992 | INFO     | __main__:create_folders_periodically:180 - Waiting 5 seconds before creating the next folder...
+2025-05-18 23:11:46.995 | INFO     | __main__:create_folders_periodically:177 - Created folder: C:\projects\datafun-02-automation\periodic_folder_3
+2025-05-18 23:11:46.995 | INFO     | __main__:create_folders_periodically:180 - Waiting 5 seconds before creating the next folder...
+2025-05-18 23:11:51.999 | INFO     | __main__:create_folders_periodically:177 - Created folder: C:\projects\datafun-02-automation\periodic_folder_4
+2025-05-18 23:11:51.999 | INFO     | __main__:create_folders_periodically:180 - Waiting 5 seconds before creating the next folder...
+2025-05-18 23:11:57.001 | INFO     | __main__:create_folders_periodically:177 - Created folder: C:\projects\datafun-02-automation\periodic_folder_5
+2025-05-18 23:11:57.001 | INFO     | __main__:create_standardized_folders:206 - FUNCTION: create_standardized_folders()
+2025-05-18 23:11:57.001 | INFO     | __main__:create_standardized_folders:207 - PARAMETERS: folder_list = ['North America', 'South America', 'Europe', 'Asia', 'Africa', 'Oceania', 'Middle East'], to_lowercase = True, remove_spaces = True
+2025-05-18 23:11:57.001 | INFO     | __main__:main:244 - 
+#####################################
+2025-05-18 23:11:57.003 | INFO     | __main__:main:245 - # Completed execution of main()
+2025-05-18 23:11:57.003 | INFO     | __main__:main:246 - #####################################
